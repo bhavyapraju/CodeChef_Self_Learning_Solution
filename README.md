@@ -1,4 +1,4 @@
-b# CodeChef_Self_Learning_Solution
+# CodeChef_Self_Learning_Solution
 
 This Repo is CodeChef Self Learning Problems Solutions.
 
