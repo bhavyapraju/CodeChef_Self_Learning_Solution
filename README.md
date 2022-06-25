@@ -22,22 +22,24 @@ This Repo is CodeChef Self Learning Problems Solutions.
 
 - 2.1 Basic Programming Concepts
 
-  - [Richie Rick](./Self-Learning%20for%201-%20star%20coders/Basic%20programming%20concepts/CHFRICH.py)
-  - [The Two Dishes](./Self-Learning%20for%201-%20star%20coders/Basic%20programming%20concepts/MAX_DIFF.py)
-  - [Vaccine Dates](./Self-Learning%20for%201-%20star%20coders/Basic%20programming%20concepts/VDATES.py)
-  - [Motivation](./Self-Learning%20for%201-%20star%20coders/Basic%20programming%20concepts/IMDB.py)
-  - [Hoop Jump](./Self-Learning%20for%201-%20star%20coders/Basic%20programming%20concepts/HOOPS.py)
-  - [Two Dishes](./Self-Learning%20for%201-%20star%20coders/Basic%20programming%20concepts/TWODISH.py)
-  - [Programming Languages](./Self-Learning%20for%201-%20star%20coders/Basic%20programming%20concepts/PROGLANG.PY)
-  - [Problem Category](./Self-Learning%20for%201-%20star%20coders/Basic%20programming%20concepts/PROBCAT.py)
-  - [Turn It](./Self-Learning%20for%201-%20star%20coders/Basic%20programming%20concepts/NFS.py)
-  - [Smallest Possibl Whole](./Self-Learning%20for%201-%20star%20coders/Basic%20programming%20concepts/SMOL.py)
+  - [Richie Rick](./Self%20Learning%20for%201%20star%20coders/Basic%20programming%20concepts/CHFRICH.py)
+  - [The Two Dishes](./Self%20Learning%20for%201%20star%20coders/Basic%20programming%20concepts/MAX_DIFF.py)
+  - [Vaccine Dates](./Self%20Learning%20for%201%20star%20coders/Basic%20programming%20concepts/VDATES.py)
+  - [Motivation](./Self%20Learning%20for%201%20star%20coders/Basic%20programming%20concepts/IMDB.py)
+  - [Hoop Jump](./Self%20Learning%20for%201%20star%20coders/Basic%20programming%20concepts/HOOPS.py)
+  - [Two Dishes](./Self%20Learning%20for%201%20star%20coders/Basic%20programming%20concepts/TWODISH.py)
+  - [Programming Languages](./Self%20Learning%20for%201%20star%20coders/Basic%20programming%20concepts/PROGLANG.PY)
+  - [Problem Category](./Self%20Learning%20for%201%20star%20coders/Basic%20programming%20concepts/PROBCAT.py)
+  - [Turn It](./Self%20Learning%20for%201%20star%20coders/Basic%20programming%20concepts/NFS.py)
+  - [Smallest Possibl Whole](./Self%20Learning%20for%201%20star%20coders/Basic%20programming%20concepts/SMOL.py)
+  - [Chef and Spells](./Self%20Learning%20for%201%20star%20coders/Basic%20programming%20concepts/CHFSPL.py)
+  - [Weight Balance](./Self%20Learning%20for%201%20star%20coders/Basic%20programming%20concepts/WEIGHTBL.py)
 
 - 2.2 Arrays
-  - [Chef in Vaccination Queue](./Self-Learning%20for%201-%20star%20coders/Arrays/VACCINQ.py)
-  - [Chef and IPC Certifications](./Self-Learning%20for%201-%20star%20coders/Arrays/IPCCERT.py)
+  - [Chef in Vaccination Queue](./Self%20Learning%20for%201%20star%20coders/Arrays/VACCINQ.py)
+  - [Chef and IPC Certifications](./Self%20Learning%20for%201%20star%20coders/Arrays/IPCCERT.py)
 
 - 2.3 Strings
-  - [Pawri Meme](./Self-Learning%20for%201-%20star%20coders/Strings/PAWRI.py)
-  - [Chef and the Wildcard M](./Self-Learning%20for%201-%20star%20coders/Strings/TWOSTR.py)
-  - [Magical Doors](./Self-Learning%20for%201-%20star%20coders/Strings/MAGDOORS.py)
+  - [Pawri Meme](./Self%20Learning%20for%201%20star%20coders/Strings/PAWRI.py)
+  - [Chef and the Wildcard M](./Self%20Learning%20for%201%20star%20coders/Strings/TWOSTR.py)
+  - [Magical Doors](./Self%20Learning%20for%201%20star%20coders/Strings/MAGDOORS.py)
